@@ -78,6 +78,7 @@
         "gtm.oasisfeng.com",
         "i.pki.goog",
         "images-cn-8.ssl-images-amazon.com",
+        "izattime.qcomgeo2.com",
         "ksn-cinfo.geoksn.kaspersky.com",
         "ksn-crypto-wifiplus.geoksn.kaspersky.com",
         "ksn-dc1-cert.geoksn.kaspersky.com",
@@ -134,7 +135,8 @@
         "www.pxcc.com",
         "www.recaptcha.net",
         "www4-static.gog-statics.com",
-        "xn--flw351e.com"
+        "xn--flw351e.com",
+        "xtratime.qcomgeo2.com"
       ],
       "domain_suffix": [
         "00cdn.com",
@@ -16226,6 +16228,7 @@
         "anhuisjx.com",
         "anhuisuya.com",
         "anhuiwine.com",
+        "anhuiyun.com",
         "anhuizk.com",
         "ani-sh.com",
         "aniccw.net",
