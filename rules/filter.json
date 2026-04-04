@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "ping0.cc"
+        "ping0.cc",
+        "iplark.com"
       ]
     }
   ]
