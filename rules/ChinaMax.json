@@ -12,10 +12,10 @@
         "officecdn",
         "taobao",
         "bilibili",
-        "qiyi",
         "hnagroup",
         "stripe",
-        "weibo"
+        "weibo",
+        "qiyi"
       ],
       "package_name": [
         "com.taobao.taobao",
